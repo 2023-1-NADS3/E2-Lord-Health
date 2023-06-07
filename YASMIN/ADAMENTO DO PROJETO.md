@@ -1,3 +1,1 @@
-descidimos o tema do aplicativo
-nome do aplicativo.
-as fucionalidades
+Durante o semestre e do projeto eu contribui com as documentações do do projeto e atualizações no GITHUB.

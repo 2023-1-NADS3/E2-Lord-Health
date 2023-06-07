@@ -1,3 +1,8 @@
+#FECAP - Fundação de Comércio Álvares Penteado
+![image](https://github.com/2023-1-NADS3/E2-Lord-Health/assets/106283184/e6711b31-9368-453f-9b18-35e6db6e4803)
+
+
+
 # App3
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.

@@ -1,11 +1,19 @@
 # FECAP - Fundação de Comércio Álvares Penteado
+
 ![image](https://github.com/2023-1-NADS3/E2-Lord-Health/assets/106283184/e6711b31-9368-453f-9b18-35e6db6e4803)
 
 
 # Nome do Projeto: Lord Health
 
+
 # Integrantes: 
+
 Lucas Benati, Mateus Nogueira, Tiago Elias, Yasmin Renata.
+
+# Descrição
+
+Tomar a vida saudável acessível a todos, fornecendo um guia confiável e fácil de usar para uma alimentação saudável, atividade física e bem-estar emocional.
+"Um guia rápido e fácil para quem quer iniciar uma vida saudável na palma da mão.".
 
 # App3
 

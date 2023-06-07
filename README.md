@@ -1,7 +1,3 @@
-# FECAP - Fundação de Comércio Álvares Penteado
-
-
-
 # Lord Health
 
 

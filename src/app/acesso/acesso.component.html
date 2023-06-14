@@ -1,0 +1,12 @@
+<div class="container-fluid d-flex justify-content-center align-items-center">
+  <div class="row">
+    <div class="col">
+      <div *ngIf="cadastro; else FormLogin">
+        <app-cadastro (exibirpainel)="exibirpainel($event)"></app-cadastro>
+      </div>
+      <ng-template #FormLogin>
+        <app-login (exibirPainel)="exibirpainel($event)"></app-login>
+      </ng-template>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,7 @@
+.container-fluid {
+    background-image: url(../../assets/desktop-background.jpg);
+    height: 100vh;
+    display: flex;
+    padding-left: 30px;
+    align-items: center;
+  }
